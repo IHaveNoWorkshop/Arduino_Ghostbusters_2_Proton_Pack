@@ -17,7 +17,7 @@ Here lies all of the reference material, blueprints, schematics and source code 
 
 ## Authors
 
-    Lawrence Burnett - Initial work - [I Have No Workshop](http://ihavenoworkshop.com)
+* Lawrence Burnett - Initial work - [I Have No Workshop](http://ihavenoworkshop.com)
 
 See also the list of [contributors](./graphs/contributors) who participated in this project.
 
