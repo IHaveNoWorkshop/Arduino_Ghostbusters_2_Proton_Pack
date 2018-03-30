@@ -2,6 +2,8 @@
 Here lies all of the reference material, blueprints, schematics and source code for my Ghostbusters 2 proton pack.
 
 * [Build Main Page](http://ihavenoworkshop.com/projects/ghostbuters-2-proton-pack/)
+* [Tinkercad](https://www.tinkercad.com/things/bwSroFqBQoW)
+* [Plans](./Plans) - These are the Stefan Otto proton pack plans found at [GBFans](http://www.gbfans.com/wiki/Stefan_Otto%27s_Prop_Plans). They are considered the most accurate plans available.
 
 ## Libraries
 
