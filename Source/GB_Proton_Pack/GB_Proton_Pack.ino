@@ -347,7 +347,7 @@ boolean isTriggerButtonActive() {
         } else if (!isSafetyOn && isSecondarySafetyOn) {
             playSong(1); // Play The Busboys' "Cleanin' Up the Town"
         } else if (isSafetyOn && isSecondarySafetyOn) {
-            playSong(-1); // TDB: Play each song in the song array.
+            playSong(-1); // TBD: Play each song in the song array.
         } else {
             isNeutrinoFiring = false;
             playAudio(bursttail, true);
